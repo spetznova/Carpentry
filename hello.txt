@@ -1,2 +1,3 @@
 hello
 from github.com
+now i'm in git_cloned
